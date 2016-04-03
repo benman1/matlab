@@ -1,0 +1,1 @@
+Function for povray rendering of a neural network architecture
